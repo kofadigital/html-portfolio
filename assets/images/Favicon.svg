@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 100 100">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #032133;
+      }
+
+      .st1, .st2, .st3 {
+        fill: #ff540a;
+      }
+
+      .st1, .st4 {
+        font-size: 2.4px;
+        letter-spacing: 1em;
+      }
+
+      .st1, .st4, .st5, .st3 {
+        font-family: Tahoma-Bold, Tahoma;
+        font-weight: 700;
+      }
+
+      .st6, .st4, .st5 {
+        fill: #fff;
+      }
+
+      .st7 {
+        display: none;
+      }
+
+      .st5, .st3 {
+        font-size: 2.4px;
+        letter-spacing: .8em;
+      }
+
+      .st8 {
+        fill: #151515;
+      }
+    </style>
+  </defs>
+  <rect class="st0" x="-3.28" y="-3.28" width="106.56" height="106.56"/>
+  <g class="st7">
+    <path class="st2" d="M55.93,44.64l-1.44-3.65h0s-7.54-18.91-7.54-18.91l-23.09,58.93c-.38.94-.78,1.77-1.22,2.48l17.69-5.1,9.52-25.16.11-.3,1.42,3.7,4.54-11.99ZM50.41,51.8l3.67-9.7,1,2.54-3.68,9.73-.99-2.58Z"/>
+    <polygon class="st8" points="70.65 82.56 59.91 79.47 56.87 71.52 53.56 62.87 58.13 50.7 61.44 59.13 70.65 82.56"/>
+    <polygon points="58.13 50.7 58.09 50.81 58.14 50.74 58.13 50.7"/>
+    <polygon class="st8" points="73.43 36.78 61.05 53.77 59.26 49.2 71.61 32.23 71.62 32.24 73.43 36.78"/>
+    <polygon class="st8" points="75.66 42.07 63.29 59.06 61.49 54.49 73.85 37.53 73.85 37.53 75.66 42.07"/>
+    <text class="st1" transform="translate(68.25 59.23) rotate(-54.15)"><tspan x="0" y="0">CODE</tspan></text>
+    <text class="st3" transform="translate(73.67 79.84) rotate(-111.22) scale(.9 1)"><tspan x="0" y="0">DESIGN</tspan></text>
+    <polygon class="st6" points="48.29 76.12 48.26 76.11 48.29 76.1 48.29 76.12"/>
+    <polygon class="st6" points="48.26 76.11 48.23 76.12 48.24 76.1 48.26 76.11"/>
+  </g>
+  <path class="st6" d="M55.93,42.64l-1.44-3.65h0s-7.54-18.91-7.54-18.91l-23.09,58.93c-.38.94-.78,1.77-1.22,2.48l17.69-5.1,9.52-25.16.11-.3,1.42,3.7,4.54-11.99ZM50.41,49.8l3.67-9.7,1,2.54-3.68,9.73-.99-2.58Z"/>
+  <polygon class="st2" points="70.65 80.56 59.91 77.47 56.87 69.52 53.56 60.87 58.13 48.7 61.44 57.13 70.65 80.56"/>
+  <polygon points="58.13 48.7 58.09 48.81 58.14 48.74 58.13 48.7"/>
+  <polygon class="st2" points="73.43 34.78 61.05 51.77 59.26 47.2 71.61 30.23 71.62 30.24 73.43 34.78"/>
+  <polygon class="st2" points="75.66 40.07 63.29 57.06 61.49 52.49 73.85 35.53 73.85 35.53 75.66 40.07"/>
+  <text class="st4" transform="translate(68.25 57.23) rotate(-54.15)"><tspan x="0" y="0">CODE</tspan></text>
+  <text class="st5" transform="translate(73.67 77.84) rotate(-111.22) scale(.9 1)"><tspan x="0" y="0">DESIGN</tspan></text>
+  <polygon class="st6" points="48.29 74.12 48.26 74.11 48.29 74.1 48.29 74.12"/>
+  <polygon class="st6" points="48.26 74.11 48.23 74.12 48.24 74.1 48.26 74.11"/>
+</svg>
